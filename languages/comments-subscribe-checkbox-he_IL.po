@@ -1,0 +1,87 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2021-04-07 08:26+0300\n"
+"PO-Revision-Date: 2021-04-07 08:26+0300\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: he_IL\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.1.1\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;_e;esc_html__;esc_html_e\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: front-end/add-checkbox-to-comments.php:16
+msgid "Send me an email notification when someone replies to my comment"
+msgstr "שלחו לי התראה למייל כאשר מישהו מגיב לתגובה שלי"
+
+#: include/send-mail-to-subscriber.php:72
+msgid "New comment reply on post"
+msgstr "תגובה חדשה בפוסט"
+
+#: include/send-mail-to-subscriber.php:76
+msgid "Hey"
+msgstr "שלום"
+
+#: include/send-mail-to-subscriber.php:77
+msgid "We happy to let you know someone replied to your comment on post"
+msgstr "אנחנו שמחים לבשר לך שמישהו הגיב לתגובה שלך בפוסט"
+
+#: include/send-mail-to-subscriber.php:78
+msgid "You can view your comment reply by clicking on the link below:"
+msgstr "ניתן לצפות בתגובה על ידי לחיצה על הקישור מתחת:"
+
+#: include/send-mail-to-subscriber.php:80
+msgid ""
+"If you wish to stop getting notifications when someone replies to this "
+"comment click below:"
+msgstr ""
+"במידה ואינך מעוניין לקבל  התראות כאשר מישהו מגיב לתגובה שלך בעמוד לחץ על "
+"הקישור מתחת להסרה:"
+
+#: include/send-mail-to-subscriber.php:82
+msgid ""
+"If you wish to stop getting notifications for all replies to your website "
+"comments click below:"
+msgstr ""
+"במידה ואינך מעוניין להמשיך לקבל התראות לשום עמוד באתר  שנרשמת אליו תוכל "
+"להסיר את עצמך מרשימת התפוצה לכל העמודים בקישור מתחת:"
+
+#: include/send-mail-to-subscriber.php:84
+msgid "This message was sent from"
+msgstr "הודעה זו נשלחה מאת"
+
+#: include/unsubscribe.php:62 include/unsubscribe.php:88
+msgid "Unsubscribe from comments newsletter"
+msgstr "הסרה מרשימת תפוצה"
+
+#: include/unsubscribe.php:65
+msgid "Your email address was successfully removed from the post"
+msgstr "כתובת המייל שלך הוסרה בהצלחה מהפוסט"
+
+#: include/unsubscribe.php:89
+msgid "Your email address was successfully removed from all posts on the site"
+msgstr "כתובת המייל שלך הוסרה בהצלחה מכל הפוסטים שבאתר"
+
+#: include/unsubscribe.php:107
+msgid "An error has occurred"
+msgstr "התרחשה תקלה"
+
+#: include/unsubscribe.php:108
+msgid ""
+"We're sorry there was a problem and the email address wasn't deleted from "
+"the mailing list"
+msgstr "אנחנו מצטערים התרחשה תקלה וכתובת המייל לא נמחקה מרשימת התפוצה"
+
+#~ msgid "You have successfully unsubscribed"
+#~ msgstr "הסרה מרשימת תפוצה"
+
+#~ msgid "Your have successfully unsubscribed from all the site posts"
+#~ msgstr "כתובת המייל שלך הוסרה בהצלחה מכל הפוסטים שבאתר"
+
+#~ msgid "Unsubscribe Error"
+#~ msgstr "התרחשה תקלה"
